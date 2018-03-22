@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alexey-korablin/test_node/issues"
   },
-  "homepage": "https://github.com/alexey-korablin/test_node#readme"
+  "homepage": "https://github.com/alexey-korablin/test_node#readme",
+  "devDependencies": {
+    "figlet": "^1.2.0"
+  }
 }
